@@ -1,0 +1,27 @@
+{
+  "name": "luke-portfolio.github.io",
+  "version": "1.0.0",
+  "description": "> Hello World I'm Lucas. In this repository i will publish on GitHub Pages the first version of my last Project \"Luke's Portfolio\" (If you want to check it, here is the URL: github.com:Oklukeok/Luke-s_Portfolio.git.)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oklukeok/luke-portfolio.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oklukeok/luke-portfolio.github.io/issues"
+  },
+  "homepage": "https://github.com/Oklukeok/luke-portfolio.github.io#readme",
+  "devDependencies": {
+    "hint": "^7.1.1",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
