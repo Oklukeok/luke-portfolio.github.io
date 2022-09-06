@@ -4,7 +4,7 @@
 
 ## Project News! 
 
-> Soon on the W W W ! 
+> Already on the W W W ! 
 
 ## Built With
 
@@ -13,6 +13,8 @@
 - GitHub pages
 
 ## Getting Started
+To see the Published version please visit: https://oklukeok.github.io/luke-portfolio.github.io/
+
 To check this project, please follow this steps:
 
 - On GitHub.com, navigate to the main page of the repository.
