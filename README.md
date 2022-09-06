@@ -4,7 +4,9 @@
 
 ## Project News! 
 
-> Already on the W W W ! 
+> Now with accessibility features! :
+  - All images with Alt text to help blind people to understand all the website content
+  - Add high contrast background to buttons and links when focus it with tab button.
 
 ## Built With
 

@@ -355,6 +355,11 @@ form button:disabled {
   border: 1px solid #c1c7d0;
 }
 
+form button:focus {
+  background: yellow;
+  transition: 1s;
+}
+
 .resumeButton button:active {
   background: #2230d2;
   color: white;
@@ -1012,4 +1017,23 @@ form li textarea {
     margin: 0.1px;
     padding-top: 30px;
   }
+}
+
+* :focus {
+  background: yellow;
+  border: 10px solid yellow;
+}
+
+.resumeButton button:focus {
+  background: yellow;
+  transition: 1s;
+}
+
+.seeProject button:focus {
+  background: yellow;
+  transition: 1s;
+}
+
+.navLink :focus {
+  background: yellow;
 }
